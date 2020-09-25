@@ -1,0 +1,10 @@
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\bin\Debug\client.exe.config
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\bin\Debug\client.exe
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\bin\Debug\client.pdb
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\obj\Debug\client.client.resources
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\obj\Debug\client.Properties.Resources.resources
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\obj\Debug\client.exe
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\obj\Debug\client.pdb
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\client\client\obj\Debug\client.Log_in.resources

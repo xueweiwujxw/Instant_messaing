@@ -1,0 +1,10 @@
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\bin\Debug\server.exe.config
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\bin\Debug\server.exe
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\bin\Debug\server.pdb
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\obj\Debug\server.server.resources
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\obj\Debug\server.Properties.Resources.resources
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\obj\Debug\server.csproj.GenerateResource.cache
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\obj\Debug\server.exe
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\obj\Debug\server.pdb
+D:\个人\学习\MyCodes\计算机网络\C#\Instant_messaing\server\server\obj\Debug\server.csprojAssemblyReference.cache
